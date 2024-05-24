@@ -65,7 +65,3 @@ make
 ```
 
 You will be prompted to enter input, which will be processed by the assembly code and then echoed back to the standard output.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
